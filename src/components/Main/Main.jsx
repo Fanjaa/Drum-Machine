@@ -1,7 +1,7 @@
 // eslint-disable-next-line no-unused-vars
 import React, { useState } from 'react'
 import './Main.css'
-import DrumPad from '../Drumpad/Drumpad';
+import DrumPad from '../DrumPad/DrumPad';
 import { assets } from '../../assets/assets';
 
 const audioClips = [
